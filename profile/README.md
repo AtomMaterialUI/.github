@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://www.material-theme.com">
   <img height="400" src="https://raw.githubusercontent.com/AtomMaterialUI/a-file-icon-idea/master/src/main/resources/META-INF/pluginIcon.svg" alt="Logo" title="Atom Material UI Themes and Plugins">
+  </a>
 </p>
 
 [![Atom Material Themes And Plugins](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&vCenter=true&repeat=false&random=true&width=950&lines=Atom+Material+Themes+And+Plugins)](https://git.io/typing-svg)
