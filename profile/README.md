@@ -14,9 +14,27 @@ Here you can find all relevant information regarding to our plugins, updates, di
 
 ----
 
+### Languages
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=ruby&logoColor=f40000)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
+### Links
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/elior-boukhobza/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/AtomMaterialUI"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://opencollective.com/atom-material-themes-and-plugins">
@@ -39,3 +57,4 @@ Here you can find all relevant information regarding to our plugins, updates, di
     <img src="https://custom-icon-badges.demolab.com/badge/-Support_Us-pink?style=for-the-badge&logo=heart&logoColor=black" alt="" title="" />
   </a>
 </p>
+
